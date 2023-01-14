@@ -1,7 +1,7 @@
 # Movie_RecommendationV2
 I upload just front-end pages Html, Css, Javascript
 
-Api link: https://api.themoviedb.org/3
+Api link: https://api.themoviedb.org/
 
 ## [DEMO LINK](https://movierecommendationapp.netlify.app)
 
