@@ -1,6 +1,8 @@
 # Movie_RecommendationV2
 I upload just front-end pages Html, Css, Javascript
 
+## [DEMO LINK](https://movierecommendationapp.netlify.app)
+
 ![main](https://user-images.githubusercontent.com/80225142/212466268-ddd69d37-b2c2-4b7c-abac-88333b363794.png)
 
 #Survey Page
